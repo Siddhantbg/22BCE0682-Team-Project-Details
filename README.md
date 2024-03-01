@@ -1,5 +1,5 @@
 This is the Web Development project. By the group TechSavvy.
-About us-We are a dedicated electronic repair company specializing in laptops and mobile phones, offering services for both official and third-party repairs. Our fundamental goal is to provide efficient solutions for all your electronic repair needs.
+ABOUT US-We are a dedicated electronic repair company specializing in laptops and mobile phones, offering services for both official and third-party repairs. Our fundamental goal is to provide efficient solutions for all your electronic repair needs.
 
 For official repairs, customers provide us with the purchase invoice, enabling us to negotiate on their behalf and provide a competitive quote. We profit from this service by either charging a convenience fee or partnering with authorized resellers on a commission-based model, where the commission varies based on the overall service cost.
 
